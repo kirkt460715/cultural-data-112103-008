@@ -1,0 +1,21 @@
+{
+  "collection": "records",
+  "fields": [
+    "work",
+    "group",
+    "round",
+    "rubric",
+    "reviewer",
+    "score",
+    "award"
+  ],
+  "example": {
+    "work": "w-01",
+    "group": "professional",
+    "round": "final",
+    "rubric": "v2",
+    "reviewer": "j-1",
+    "score": 87,
+    "award": "gold"
+  }
+}
